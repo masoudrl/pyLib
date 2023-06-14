@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import messagebox
-from main import registerNewBook
 class Book:
     def __init__(self, bookname, author, publisher, publish_year,
                  in_stock_count,genre,age_classification, number_pages,
