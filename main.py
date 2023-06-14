@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import ttk
-from book import Book
 import sqlite3
 root= tk.Tk()
 root.geometry('800x500')
